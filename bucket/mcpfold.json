@@ -1,12 +1,12 @@
 {
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "One source of truth for your MCP servers — write once, fold out to every client.",
   "homepage": "https://mcpfold.com",
   "license": "MIT",
   "architecture": {
     "64bit": {
-      "url": "https://github.com/dj-pearson/MCPFold/releases/download/v1.0.0/mcpfold-windows-x64.exe#/mcpfold.exe",
-      "hash": "ef34d9a5a406f08be50ceb4ecfed1f95bbe5b0de8124581930bc9024543e633e"
+      "url": "https://github.com/dj-pearson/MCPFold/releases/download/v1.0.1/mcpfold-windows-x64.exe#/mcpfold.exe",
+      "hash": "632db015464f2a47c9439734ed85e9e115c9638bb6eb5bc8a03444a1bf200ad9"
     }
   },
   "bin": "mcpfold.exe",
